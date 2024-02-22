@@ -1,0 +1,11 @@
+{
+      "Name":"Here",
+      "Mass (g)":"8",
+      "Height (m)":"0.1",
+      "Length (m)":"0.226",
+      "Width (m)":"0.365",
+      "Radius of Orbit (m)":"6378100",
+      "Magnetometer": "Magneto_1",
+      "Earth Horizon Sensor": "Horz_1",
+      "Gyroscope": "Gyro_1"
+                  }

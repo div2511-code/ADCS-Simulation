@@ -1,0 +1,11 @@
+{
+    "Name":"Where",
+    "Mass":"8",
+    "Height":"0.1",
+    "Length":"0.226",
+    "Width":"0.365",
+    "Radius of Orbit":"6378100",
+    "Magnetometer": "Magneto_1",
+    "Earth Horizon Sensor": "Horz_1",
+    "Gyroscope": "Gyro_1"
+}
